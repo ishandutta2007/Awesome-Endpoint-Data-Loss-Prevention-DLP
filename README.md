@@ -1,6 +1,6 @@
 # Awesome-Endpoint-Data-Loss-Prevention-DLP
 
-# Top Endpoint Data Loss Prevention (DLP) Ecosystem
+## Top Endpoint Data Loss Prevention (DLP) Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Sensitive Data Discovery, Exfiltration Prevention & Self-Hosted DLP Gates*  
