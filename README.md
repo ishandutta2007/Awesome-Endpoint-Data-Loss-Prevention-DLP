@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP?color=red" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Endpoint-Data-Loss-Prevention-DLP/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -62,7 +62,7 @@ The sector exhibits **moderate-to-high market concentration**, dominated by tier
 
 Curated community-driven repositories for self-hosted data loss prevention, automated PII redaction, secret scanning, and LLM guardrails—sorted by GitHub stargazers count in descending order.
 
-| Project | Stars | Focus & Description |
+| Project | GitHub_Stars | Focus & Description |
 |:---|:---:|:---|
 | **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) | 🏛️ **Unified Data Governance & Discovery Engine.** Open-source platform featuring end-to-end metadata management, data lineage, automated PII auto-classification, and data governance policies across distributed databases and cloud warehouses. |
 | **[Presidio](https://github.com/data-privacy-stack/presidio)** | [![Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers) | 🔍 **PII Detection & Anonymization Framework.** Microsoft's mature framework for context-aware Personally Identifiable Information (PII) detection, redaction, and de-identification in text and images using modular NER models and custom regex recognizers. |
